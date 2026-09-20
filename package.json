@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix src run dev",
+    "start": "npm --prefix src run start"
+  },
+  "dependencies": {
+    "mongodb": "^7.6.0"
+  }
+}
